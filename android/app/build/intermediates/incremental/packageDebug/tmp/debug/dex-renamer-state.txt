@@ -1,0 +1,4 @@
+#Tue Nov 24 23:06:56 BRT 2020
+base.0=/home/pc-mint/Documentos/Projeto GoStack/appgobarber/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
